@@ -13,4 +13,4 @@ To appreciate what they've done and contributed to our community, our team has d
 
 Each of our OG Minter will receive their exclusive airdrop USDC tokens in 72 hours. If your address is on the list, you don't need to do anything, we will transfer the USDC token to your wallet address.
 
-You could check the OG Minters Address List here -> [TNT Genesis Minters Airdrop List](https://github.com/TallNeckTribe/Announcement/blob/main/TNT%20Genesis%20First%20Airdrop.csv)
+You could check the OG Minters Address List here -> [TNT Genesis Minters Airdrop List](https://github.com/TallNeckTribe/Announcement/blob/main/TNT-Genesis-First-Airdrop.csv)

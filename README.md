@@ -3,7 +3,7 @@
 Tall Neck Tribe Announcement
 
 
-## The First TNT Genesis OG Airdrop
+## The First TNT Genesis Airdrop
 
 The minting of our 👾 TNT Genesis 👾 has been diabled and won't open in the future. There are 25 TNT OG Hodlers and 44 TNT Genesis NFTs.
 

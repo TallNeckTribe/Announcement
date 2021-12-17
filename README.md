@@ -15,4 +15,4 @@ Each of our OG Minter will receive their exclusive airdrop USDC tokens in 72 hou
 
 You could check the OG Minters Address List here -> [TNT Genesis Minters Airdrop List](https://github.com/TallNeckTribe/Announcement/blob/main/TNT-Genesis-First-Airdrop.csv)
 
-P.S. As reproted by @rogalda, this address 0x50577B6C03d36Fb12842Cb32217F39d80ff1cA14 has been compromised and here's his new address: 0xcEAEE92435368cae2D9dc9Cf1156D1341847017a. So we will airdrop the USDC tokens to his address. Keep safe, don't get rekt again, my frens.
+P.S. As reproted by @rogalda, this address 0x50577B6C03d36Fb12842Cb32217F39d80ff1cA14 has been compromised and here's his new address: 0xcEAEE92435368cae2D9dc9Cf1156D1341847017a. So we will airdrop the USDC tokens to his new address. Keep safe, don't get rekt again, my frens.
